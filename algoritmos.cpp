@@ -26,3 +26,4 @@ Merge(Array[],min,max,med){
 	for(i=min;i<=max;i++)
 		array[i]=temp[i-min];
 }
+
