@@ -35,3 +35,4 @@ int main(){
 	solve(n,n,1,count);
 	return 0;
 }
+ 
